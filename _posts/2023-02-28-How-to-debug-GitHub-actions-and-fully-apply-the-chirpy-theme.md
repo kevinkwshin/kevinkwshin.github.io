@@ -9,6 +9,9 @@ tags: [jekyll, theme, chirpy]
 
 This is the result of my trial and error to use the chirpy theme from Github Posts theme utilizing Jekyll. Along the way, I kept running into the '--- layout: home # Index page ---' issue, and I've found and shared the complete solution in the issue below.
 
+reference github issue: https://github.com/cotes2020/jekyll-theme-chirpy/issues/853
+
+
 ### You can apply the chirpy theme to your GitHub blog by following the four steps below.
 
 ##### 1) modify /.github/workflows/pages-deploy.yml to enable github action
