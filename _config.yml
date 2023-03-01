@@ -25,7 +25,7 @@ tagline: Biosinal analysis research note   # it will display as the sub-title
 
 description: >-           
 # used by seo meta and the atom feed
-  - Deep learning professional writing.
+  Deep learning professional writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://kevinkwshin.github.io'
@@ -153,7 +153,7 @@ defaults:
   - scope:
       path: _drafts
     values:
-      comments: true
+      comments: false
   - scope:
       path: ''
       type: tabs             # see `site.collections`
