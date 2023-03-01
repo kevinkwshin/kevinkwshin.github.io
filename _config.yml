@@ -23,8 +23,7 @@ title: TIL diary                          # the main title
 
 tagline: Biosinal analysis research note   # it will display as the sub-title
 
-description: >-           
-# used by seo meta and the atom feed
+description: >-           # used by seo meta and the atom feed
   Deep learning professional writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
@@ -46,9 +45,9 @@ social:
     - https://twitter.com/keewon      # change to your twitter homepage
     - https://github.com/kevinwkwshin       # change to your github homepage
     # Uncomment below to add more social links
-    - https://www.facebook.com/kevinkwshin
-    - https://www.linkedin.com/in/kevinkwshin
-    - https://scholar.google.com/citations?user=prJCNYoAAAAJ&hl=ko
+#     - https://www.facebook.com/kevinkwshin
+#     - https://www.linkedin.com/in/kevinkwshin
+#     - https://scholar.google.com/citations?user=prJCNYoAAAAJ&hl=ko
 
 google_site_verification:               # fill in to your verification string
 
@@ -56,7 +55,7 @@ google_site_verification:               # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: 'G-M67LQJY529'  # fill in your Google Analytics ID
+  id: #'G-M67LQJY529'  # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
