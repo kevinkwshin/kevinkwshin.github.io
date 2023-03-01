@@ -15,6 +15,7 @@ reference github issue: https://github.com/cotes2020/jekyll-theme-chirpy/issues/
 ### You can apply the chirpy theme to your GitHub blog by following the four steps below.
 
 1. modify /.github/workflows/pages-deploy.yml to enable github action
+
 ```console
   deploy:
     environment:
