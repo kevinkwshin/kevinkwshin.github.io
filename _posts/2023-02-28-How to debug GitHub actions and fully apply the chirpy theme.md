@@ -1,11 +1,13 @@
 ---
-title: How to apply chirpy theme
+title: How to debug GitHub actions and fully apply the chirpy theme
 author: sille_bille
 date: 2023-02-28 18:32:00 -0500
 categories: [Blogging, Tutorial]
 tags: [jekyll, theme, chirpy]
 ---
 
+
+How to debug GitHub Actions and '--- layout: home # Index page ---' 
 ### You can apply the chirpy theme to your GitHub blog by following the four steps below.
 
 
