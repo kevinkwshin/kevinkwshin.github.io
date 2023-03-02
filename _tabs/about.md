@@ -9,9 +9,9 @@ order: 4
  -->
 
 ## **Keewon Shin (신기원)**
-Asan Medical Center </br>
-PhD in machnine learning for Healthcare </br>
-Seoul, South Korea
+- Asan Medical Center
+- PhD in machnine learning for Healthcare
+- Seoul, South Korea
 
 📲 **Mobile    +82-10-8619-7774** </br>
 ✉️ **E-mail      [kevinkwshin@gmail.com](mailto:kevinkwshin@gmail.com)** </br>
